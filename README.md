@@ -183,6 +183,7 @@ Required in options:
 ```
 
 `service`: Name of your category
+
 `providerPlugin`: Name of your cloud provider (i.e `awscloudformation`)
 
 **Notice:** You can have more options but these are the only required
